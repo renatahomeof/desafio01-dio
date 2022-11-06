@@ -1,0 +1,10 @@
+comandos básicos para um bom desempenho no terminal - sistema windows:
+
+cd/ -navegar entre pastas
+cd.. retroceder a pasta interior
+dir - listar diretórios na pasta que está situado
+cls- limpar o terminal 
+mkdir - criar uma pasta no diretório
+
+del- deletar arquivos na pasta
+rmdir- deletar pasta
